@@ -51,12 +51,12 @@ My goal is simple:
 ```text
 📍 Cotonou, Benin
 
-💻 Full Stack Development
-🌐 Web Applications
-📱 Mobile Applications
-🗄️ Database Management
-🎨 UI / UX Integration
-🚀 Deployment & Version Control
+ Full Stack Development
+ Web Applications
+ Mobile Applications
+ Database Management
+ UI / UX Integration
+ Deployment & Version Control
 ```
 
 </td>
