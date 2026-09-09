@@ -1,44 +1,61 @@
-<p align="center">
-  <a href="https://kouandzi-miette-junior.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=FF6B35&text=👨🏾‍💻%20KOUANDZI%20MIETTE%20JUNIOR&fontSize=28&fontColor=050505&fontAlignY=50"/>
-  </a>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+%26+Mobile+Developer;Building+Modern+Digital+Solutions;React.js+%7C+Laravel+%7C+Flutter;Turning+Ideas+Into+Digital+Products" alt="Typing SVG"/>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:171717,100:0A0A0A&height=380&section=header&text=KOUANDZI%20MIETTE%20JUNIOR&fontSize=52&fontColor=FF6B35&animation=twinkling&fontAlignY=38&desc=Full+Stack+Developer%20·%20Web%20%26%20Mobile%20·%20Digital%20Solutions&descAlignY=60&descSize=20&descColor=8B8B8B"/>
 
-<p align="center">
-  <a href="https://github.com/junior-glishe"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B35"/></a>
-  <a href="https://www.linkedin.com/in/junior-kouandzimiette-3a67ab36b/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505"/></a>
-  <a href="https://kouandzi-miette-junior.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=050505&labelColor=050505"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505"/></a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junior-glishe&label=PROFILE%20VIEWS&color=FF6B35&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/junior-glishe?label=FOLLOWERS&style=flat-square&color=FF6B35&logo=person-add"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=820&lines=Full+Stack+Web+%26+Mobile+Developer;Building+Modern+Digital+Solutions;React+%7C+Laravel+%7C+Flutter;From+Idea+to+Production"/>
+
+<br><br>
+
+<div align="center">
+
+<a href="https://github.com/junior-glishe"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B35&labelColor=171717"/></a>
+<a href="https://www.linkedin.com/in/junior-kouandzimiette-3a67ab36b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717"/></a>
+<a href="https://kouandzi-miette-junior.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=171717"/></a>
+<a href="mailto:contact@kouandzi.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FF6B35&labelColor=0A0A0A"/></a>
+
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junior-glishe/junior-glishe/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/junior-glishe/junior-glishe/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
-## 🎯 `01` — QUI SUIS-JE ?
+## `01` — 🚀 À PROPOS
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
-### 🚀 **Je ne code pas. Je construis des solutions.**
+> *« Je ne me contente pas d'écrire du code. Je construis des solutions digitales. »*
 
-Je suis **KOUANDZI MIETTE Junior**, Développeur Full Stack basé à **Cotonou, Bénin 🇧🇯**.
+</div>
 
-Spécialisé dans la conception d'applications **web, mobiles et systèmes de gestion**, je transforme les besoins métiers en solutions **modernes, performantes et évolutives**.
+<br>
 
-Mon approche allie rigueur technique, sensibilité UX et architecture robuste.
+```yaml
+# Profil
+nom: KOUANDZI MIETTE Junior
+role: Full Stack Developer
+localisation: Cotonou, Bénin 🇧🇯
+experience: Web · Mobile · Backend · Data
 
-</td>
-    <td width="50%" valign="top">
+# Mission
+objectif: |
+  Transformer les idées en produits digitaux
+  modernes, performants et évolutifs.
+  Apporter une véritable valeur aux utilisateurs
+  et aux entreprises.
 
-### 🎯 **Ma mission**
-
-> *« Créer des produits digitaux qui ne se contentent pas de fonctionner, mais qui apportent une vraie valeur aux utilisateurs et aux entreprises. »*
+# Approche
+valeurs:
+  - Clean Code
+  - Performance
+  - Sécurité
+  - UX / UI
+  - Impact
