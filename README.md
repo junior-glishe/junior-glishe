@@ -47,9 +47,9 @@ I care about **clean architecture, performance, responsive interfaces and mainta
 <td width="35%">
 
 ```text
-📍 Cotonou, Benin
+ Cotonou, Benin
 
- Full Stack
+Full Stack
 - Web
 - Mobile
 - Databases
