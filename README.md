@@ -15,6 +15,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=junior-glishe&label=PROFILE%20VIEWS&color=FF6B35&style=for-the-badge"/>
 
+<br><br>
+
+<sub>
+
+**[À propos](#-à-propos)** &nbsp;·&nbsp; **[Stack technique](#-stack-technique)** &nbsp;·&nbsp; **[IA](#-développement-assisté-par-ia)** &nbsp;·&nbsp; **[Statistiques](#-statistiques-github)** &nbsp;·&nbsp; **[Philosophie](#-philosophie-de-développement)** &nbsp;·&nbsp; **[Contact](#-discutons)**
+
+</sub>
+
 </div>
 
 <br>
@@ -150,67 +158,6 @@ Je couvre l'ensemble du cycle de développement :
 
 <br>
 
-## 🚀 &nbsp;Projets phares
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 NdigitMarket
-**Marketplace e-commerce — PHP MVC**
-
-Plateforme de vente en ligne développée en binôme : panel admin, sécurité renforcée (audit Nikto, en-têtes Apache, sessions), architecture PDO/MVC complète.
-
-`PHP` `MySQL` `MVC` `Sécurité`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 MediTrace
-**Système de gestion hospitalière — PHP/MySQL**
-
-CRUD complet, interfaces modales Bootstrap 5, système de notifications flash et gestion des droits d'accès, accompagné d'un mini-mémoire UML.
-
-`PHP` `MySQL` `Bootstrap 5`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 GestionMi
-**Plateforme de gestion d'entreprise — Laravel**
-
-Back-office pour la gestion des utilisateurs, produits et activités, avec intégration PHPMailer, développé en binôme.
-
-`Laravel` `PHP` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Crèche Collection
-**E-commerce premium — PHP/MySQL**
-
-Site marchand pour le marché congolais (FCFA, WhatsApp checkout), migré de JS/localStorage vers une API REST PDO, refonte éditoriale luxe.
-
-`PHP` `MySQL` `REST API`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*Envie d'en voir plus ? Mes dépôts épinglés ci-dessous détaillent chaque projet en profondeur.*
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B35&height=2&width=100%25" width="100%"/>
-
-<br>
-
 ## 📊 &nbsp;Statistiques GitHub
 
 <div align="center">
@@ -225,6 +172,10 @@ Site marchand pour le marché congolais (FCFA, WhatsApp checkout), migré de JS/
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=junior-glishe&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=junior-glishe&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers"/>
 
 </div>
 
