@@ -49,12 +49,12 @@ I care about **clean architecture, performance, responsive interfaces and mainta
 ```text
 📍 Cotonou, Benin
 
-💻 Full Stack
-🌐 Web
-📱 Mobile
-🗄️ Databases
-🤖 AI-assisted Development
-🐧 Linux
+ Full Stack
+- Web
+- Mobile
+- Databases
+- AI-assisted Development
+- Linux
 ```
 
 </td>
