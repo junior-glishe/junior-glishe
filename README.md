@@ -31,7 +31,7 @@
 
 <br>
 
-## 🧭 &nbsp;À propos
+##  &nbsp;À propos
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ Je couvre l'ensemble du cycle de développement :
 
 <br>
 
-## 🧱 &nbsp;Stack technique
+##  &nbsp;Stack technique
 
 <table width="100%">
 <tr>
@@ -128,7 +128,7 @@ Je couvre l'ensemble du cycle de développement :
 
 <br>
 
-## 🧠 &nbsp;Développement assisté par IA
+##  &nbsp;Développement assisté par IA
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Je couvre l'ensemble du cycle de développement :
 
 <br>
 
-## 📊 &nbsp;Statistiques GitHub
+##  &nbsp;Statistiques GitHub
 
 <div align="center">
 
@@ -185,13 +185,13 @@ Je couvre l'ensemble du cycle de développement :
 
 <br>
 
-## 🧭 &nbsp;Philosophie de développement
+##  &nbsp;Philosophie de développement
 
 <table width="100%">
 <tr>
 <td align="center" width="25%">
 
-### 🧹 Code propre
+###  Code propre
 Simple, lisible
 et maintenable.
 
@@ -205,14 +205,14 @@ systèmes optimisés.
 </td>
 <td align="center" width="25%">
 
-### 📈 Évolutivité
+###  Évolutivité
 Architecture pensée
 pour durer.
 
 </td>
 <td align="center" width="25%">
 
-### 📚 Apprentissage
+###  Apprentissage
 Toujours en veille
 technologique.
 
@@ -228,7 +228,7 @@ technologique.
 
 <br><br>
 
-# 🤝 &nbsp;Discutons
+#  &nbsp;Discutons
 
 ### Une idée ? Transformons-la en quelque chose de concret.
 
