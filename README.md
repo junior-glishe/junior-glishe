@@ -1,62 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=180&section=header&text=KOUANDZI%20MIETTE%20Junior&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=190&section=header&text=JUNIOR%20KOUANDZI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20%26%20MOBILE%20DEVELOPER&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+%26+Mobile+Application+Developer;Building+modern+and+scalable+digital+solutions;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Web+%7C+Mobile+%7C+Backend;Building+modern+digital+experiences;Code.+Create.+Improve." />
 
-<br>
+<br><br>
 
 <a href="https://github.com/junior-glishe">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/junior-kouandzimiette-3a67ab36b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://kouandzi-miette-junior.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=junior-glishe&label=Profile%20Views&color=FF6B35&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=junior-glishe&label=PROFILE%20VIEWS&color=FF6B35&style=flat-square"/>
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/fa6-solid/user-tie.svg?color=%23FF6B35" width="22"> About Me
+# <img src="https://api.iconify.design/fa6-solid/user-astronaut.svg?color=%23FF6B35" width="27"> About
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
-### 👋 Hi, I'm Junior
+### KOUANDZI MIETTE Junior
 
-I'm a **Full Stack Web & Mobile Developer** passionate about designing and developing modern, responsive and scalable digital solutions.
+**Full Stack Web & Mobile Developer** passionate about building modern, scalable and user-focused digital solutions.
 
-I work across the entire development cycle — from **UI/UX implementation** to **backend architecture, APIs and database management**.
+I work across the complete development lifecycle:
 
-My goal is simple:
+**Frontend → Backend → Database → Deployment**
 
-> **Build clean, useful and reliable digital experiences.**
+I care about **clean architecture, performance, responsive interfaces and maintainable code**.
 
 </td>
 
-<td width="40%">
+<td width="35%">
 
 ```text
 📍 Cotonou, Benin
 
- Full Stack Development
- Web Applications
- Mobile Applications
- Database Management
- UI / UX Integration
- Deployment & Version Control
+💻 Full Stack
+🌐 Web
+📱 Mobile
+🗄️ Databases
+🤖 AI-assisted Development
+🐧 Linux
 ```
 
 </td>
@@ -65,51 +63,190 @@ My goal is simple:
 
 ---
 
-## <img src="https://api.iconify.design/fa6-solid/code.svg?color=%23FF6B35" width="22"> Tech Stack
+# <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%23FF6B35" width="27"> Expertise
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-FF6B35?style=for-the-badge&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/MOBILE%20DEVELOPMENT-FF6B35?style=for-the-badge&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/BACKEND%20%26%20API-FF6B35?style=for-the-badge&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/DATABASE-FF6B35?style=for-the-badge&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/DEVOPS%20%26%20TOOLS-FF6B35?style=for-the-badge&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/AI%20TOOLS-FF6B35?style=for-the-badge&labelColor=050505"/>
+
+</div>
+
+---
+
+# <img src="https://api.iconify.design/fa6-solid/code.svg?color=%23FF6B35" width="27"> Tech Stack
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,flutter,dart,js,html,css,tailwind" />
 
 <br><br>
+
+<img src="https://img.shields.io/badge/LottieFiles-050505?style=flat-square&logo=lottiefiles&logoColor=FF6B35"/>
+
+</div>
+
+---
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,django" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,laravel,php,cpp,c,java,bash" />
 
 <br><br>
 
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-<br><br>
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase,docker,git,github,gitlab,vscode,figma" />
+<img src="https://img.shields.io/badge/UML-050505?style=flat-square&logoColor=FF6B35"/>
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/fa6-solid/bolt.svg?color=%23FF6B35" width="22"> What I Do
+### Databases
 
 <div align="center">
 
-| <img src="https://api.iconify.design/fa6-solid/globe.svg?color=%23FF6B35" width="28"> Web Development | <img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%23FF6B35" width="28"> Mobile Development | <img src="https://api.iconify.design/fa6-solid/database.svg?color=%23FF6B35" width="28"> Backend & Data |
-| :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|                                     Modern & responsive interfaces                                    |                                               Cross-platform applications                                               |                                         REST APIs & architecture                                        |
-|                                         React.js & JavaScript                                         |                                                      Flutter & Dart                                                     |                                        Laravel / Node.js / Django                                       |
-|                                          Tailwind CSS & UI/UX                                         |                                                      Android & iOS                                                      |                                      MySQL / PostgreSQL / Supabase                                      |
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase" />
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%23FF6B35" width="22"> GitHub
+### Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,firebase,githubactions,figma,vercel,androidstudio,pycharm" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PHPMailer-050505?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LWS-050505?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/FileZilla-050505?style=flat-square"/>
+
+</div>
+
+---
+
+# <img src="https://api.iconify.design/fa6-solid/brain.svg?color=%23FF6B35" width="27"> AI Toolkit
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/openai.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**ChatGPT**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/claude.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**Claude Code**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**Cursor**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**Antigravity**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/opencode.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**OpenCode**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/mistral.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**Mistral**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/qwen.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**Qwen**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/deepseek.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**DeepSeek**
+
+</td>
+
+<td align="center">
+
+<img src="https://api.iconify.design/simple-icons/google.svg?color=%23FF6B35" width="32"/>
+
+<br>
+
+**Gemini**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+> **AI is part of my workflow — for exploration, debugging, productivity and faster development.**
+
+---
+
+# <img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=%23FF6B35" width="27"> GitHub Activity
 
 <div align="center">
 
@@ -125,40 +262,34 @@ My goal is simple:
 
 ---
 
-## <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%23FF6B35" width="22"> Currently
-
-```text
-▸ Developing full stack applications
-▸ Improving software architecture & clean code
-▸ Exploring modern technologies
-▸ Building scalable digital solutions
-▸ Continuously learning and experimenting
-```
-
----
-
-## <img src="https://api.iconify.design/fa6-solid/paper-plane.svg?color=%23FF6B35" width="22"> Let's Connect
+# <img src="https://api.iconify.design/fa6-solid/handshake.svg?color=%23FF6B35" width="27"> Connect
 
 <div align="center">
 
-I'm open to **professional opportunities, collaborations and interesting digital projects.**
+### Let's build something meaningful.
+
+**Open to professional opportunities, collaborations and ambitious digital projects.**
 
 <br>
 
 <a href="https://kouandzi-miette-junior.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/junior-kouandzimiette-3a67ab36b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/junior-glishe">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-**© 2026 KOUANDZI MIETTE Junior · Full Stack Web & Mobile Developer**
+<img src="https://img.shields.io/badge/Cotonou-Benin-FF6B35?style=flat-square"/>
+
+<br><br>
+
+**© 2026 KOUANDZI MIETTE Junior**
 
 </div>
