@@ -29,7 +29,9 @@
 <tr>
 <td width="58%" valign="top">
 
-**Développeur Full Stack Web & Mobile**, passionné par la conception de solutions numériques **modernes, réactives et évolutives**, avec une attention particulière portée à la performance, l'ergonomie et la propreté de l'architecture.
+**KOUANDZI MIETTE Junior** — **Développeur Full Stack Web & Mobile**, passionné par la conception de solutions numériques **modernes, réactives et évolutives**, avec une attention particulière portée à la performance, l'ergonomie et la propreté de l'architecture.
+
+Étudiant en Génie Électrique et Informatique (filière Système Informatique et Logiciel) à l'UATM GASA FORMATION, je mets en pratique mes compétences à travers des projets concrets — du web au mobile, de la modélisation UML au déploiement.
 
 Je couvre l'ensemble du cycle de développement :
 
@@ -122,20 +124,84 @@ Je couvre l'ensemble du cycle de développement :
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=anthropic&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&labelColor=FF6B35"/>
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=ffffff"/>
+
 <br><br>
-<img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&labelColor=FF6B35"/>
-<img src="https://img.shields.io/badge/Mistral-111111?style=for-the-badge&logo=mistral&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Qwen-111111?style=for-the-badge&labelColor=FF6B35"/>
-<img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge&labelColor=FF6B35"/>
-<img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=google&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/Mistral%20AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Qwen-6C4CE5?style=for-the-badge&logo=qwen&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/OpenCode-FF6B35?style=for-the-badge&logo=terminal&logoColor=ffffff"/>
 
 <br><br>
 
 > *"L'IA ne remplace pas le développement — c'est un outil que j'utilise pour réfléchir, explorer, déboguer et construire plus vite."*
+> <br>— **Kouandzi Miette Junior**
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B35&height=2&width=100%25" width="100%"/>
+
+<br>
+
+## 🚀 &nbsp;Projets phares
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 NdigitMarket
+**Marketplace e-commerce — PHP MVC**
+
+Plateforme de vente en ligne développée en binôme : panel admin, sécurité renforcée (audit Nikto, en-têtes Apache, sessions), architecture PDO/MVC complète.
+
+`PHP` `MySQL` `MVC` `Sécurité`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 MediTrace
+**Système de gestion hospitalière — PHP/MySQL**
+
+CRUD complet, interfaces modales Bootstrap 5, système de notifications flash et gestion des droits d'accès, accompagné d'un mini-mémoire UML.
+
+`PHP` `MySQL` `Bootstrap 5`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 GestionMi
+**Plateforme de gestion d'entreprise — Laravel**
+
+Back-office pour la gestion des utilisateurs, produits et activités, avec intégration PHPMailer, développé en binôme.
+
+`Laravel` `PHP` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Crèche Collection
+**E-commerce premium — PHP/MySQL**
+
+Site marchand pour le marché congolais (FCFA, WhatsApp checkout), migré de JS/localStorage vers une API REST PDO, refonte éditoriale luxe.
+
+`PHP` `MySQL` `REST API`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Envie d'en voir plus ? Mes dépôts épinglés ci-dessous détaillent chaque projet en profondeur.*
 
 </div>
 
