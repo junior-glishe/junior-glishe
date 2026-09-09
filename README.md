@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:111111&height=260&section=header&text=KOUANDZI%20MIETTE%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=260&section=header&text=KOUANDZI%20MIETTE%20Junior&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%2B%20Mobile%20Developer&descAlignY=52&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Building+modern+%26+scalable+digital+products;React+%E2%80%A2+Flutter+%E2%80%A2+Laravel+%E2%80%A2+Django;From+interface+to+database+to+deployment;Code+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG"/>
 
@@ -243,6 +243,6 @@ technologique.
 **KOUANDZI MIETTE Junior**
 *Full Stack Web & Mobile Developer — Cotonou, Bénin*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FF6B35&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer" width="100%"/>
 
 </div>
